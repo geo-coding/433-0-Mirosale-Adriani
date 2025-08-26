@@ -15,11 +15,11 @@ Oborr            500
 Shtëpi-Ndërtese  75
                 1767 
 
-Gjendja e vjetër			Gjendja e re
-Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia
-    00433-0	1767	m²	    00433-1	1517	m²
-			                00433-2	107	m²
-			                00433-3	143	m²
+Gjendja e vjetër			Gjendja e re		
+Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
+    00433-0	1767	m²  	00433-1	1517	m²
+			                00433-2	99	    m²
+			                00433-3	151	    m²
 Gjithsej	1767	m²	Gjithsej	1767	m²
 
 ```
@@ -33,3 +33,8 @@ Ajshe (Rahman) Krasniqi
 1011587255
 
 ```
+
+
+1517
+99
+151
