@@ -11,9 +11,14 @@ OBORR
 -121 m²
 
 Kullosë (4)      1313
-Oborr            500
-Shtëpi-Ndërtese  75
-                1767 
+Oborr             500
+Shtëpi-Ndërtese    75
+                 1888 
+
+Kullosë (4)      1192
+Oborr             500
+Shtëpi-Ndërtese    75
+                 1767 
 
 Gjendja e vjetër			Gjendja e re		
 Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
@@ -24,6 +29,8 @@ Gjithsej	1767	m²	Gjithsej	1767	m²
 
 ```
 1516.535+99.241+150.970
+1313+500+75
+
 
 # pronari
 
