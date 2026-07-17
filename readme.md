@@ -23,6 +23,7 @@ Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia
 Gjithsej	1767	m²	Gjithsej	1767	m²
 
 ```
+1516.535+99.241+150.970
 
 # pronari
 
@@ -37,6 +38,14 @@ Ajshe (Rahman) Krasniqi
 # kerkesa
 
 ```
+163/2026
+186/1172-140/26
+Isen (Musli) Krasniq
+1011587247
+Ferizaj
+Mirosalë
+00433-0
++38344311045
 
 $ dyfishet
 
