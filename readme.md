@@ -23,6 +23,7 @@ Shtëpi-Ndërtese    75
 Gjendja e vjetër			Gjendja e re		
 Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
     00433-0	1767	m²  	00433-1	1517	m²
+                                    1516.54
 			                00433-2	99	    m²
 			                00433-3	151	    m²
 Gjithsej	1767	m²	Gjithsej	1767	m²
